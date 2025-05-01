@@ -8,21 +8,21 @@ cryptography==42.0.5
 cssselect==1.2.0
 cssutils==2.10.1
 dj-database-url==1.3.0
-bcrypt==4.1.2                      # replaces django-bcrypt
+bcrypt==4.1.2
 django-bitfield==2.2.0
 django-crispy-forms==1.14.0
 django-debug-toolbar==4.2.0
-django-jsonfield-backport==1.0.1   # replaces old django-jsonfield
+django-jsonfield-backport==1.0.1
 django-paging==0.2.5
 django-picklefield==3.0
 django-recaptcha==3.0.0
 django-secure==1.0.1
-social-auth-app-django==5.4.0      # replaces deprecated django-social-auth
+social-auth-app-django==5.4.0
 django-sudo==3.1.0
 django-templatetag-sugar==1.0
 Django==3.2.25
 djangorestframework==3.14.0
-email-reply-parser==0.5.11
+email-reply-parser==0.5.12
 hiredis==2.3.2
 honcho==1.1.0
 httplib2==0.22.0
@@ -30,12 +30,12 @@ idna==3.6
 kombu==5.3.6
 lxml==5.2.1
 mock==5.1.0
-msgpack==1.0.7                     # replaces msgpack-python
+msgpack==1.0.7
 ndg-httpsclient==0.5.1
-oauthlib==3.2.2                   # replaces oauth2
+oauthlib==3.2.2
 petname==2.6
 Pillow==10.2.0
-progressbar2==4.4.2               # replaces progressbar
+progressbar2==4.4.2
 psycopg2==2.9.9
 py==1.11.0
 pyasn1==0.5.1
@@ -54,7 +54,7 @@ raven==6.10.0
 rb==1.7
 redis==5.0.3
 requests[security]==2.31.0
-sentry-sdk==1.45.0                # replaces sentry==8.5.1
+sentry-sdk==1.45.0
 setproctitle==1.3.3
 simplejson==3.19.2
 six==1.16.0
