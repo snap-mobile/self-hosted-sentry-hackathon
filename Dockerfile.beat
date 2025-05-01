@@ -1,0 +1,1 @@
+FROM getsentry/sentry:23.11.1  # or latest supported version
