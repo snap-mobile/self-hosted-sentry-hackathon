@@ -19,7 +19,7 @@ django-recaptcha==3.0.0
 django-secure==1.0.1
 social-auth-app-django==5.4.0      # replaces deprecated django-social-auth
 django-sudo==3.1.0
-django-templatetag-sugar==1.1
+django-templatetag-sugar==1.0
 Django==3.2.25
 djangorestframework==3.14.0
 email-reply-parser==0.5.11
